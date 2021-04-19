@@ -6,7 +6,7 @@ Created on Sat Jul 25 13:34:18 2020
 """
 
 import pymysql
-import aws_credentials as rds
+'''import aws_credentials as rds'''
 conn = pymysql.connect(
         host= 'https://github.com/aniketwattamwar/AWS-Flask.git', #endpoint link
         port = '3306', # 3306
